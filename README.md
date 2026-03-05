@@ -2,32 +2,32 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998E,100:7F00FF&height=200&section=header&text=MANASHA%20GNANASEKARAN&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=MANASHA%20GNANASEKARAN&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
-<h3 align="center">AI & Data Science Student | Future Machine Learning Engineer</h3>
+<h3 align="center">Artificial Intelligence Student | Data Science Explorer | Future ML Engineer</h3>
 
 ---
 
 ## 🌸 About Me
 
-Hi! I'm Manasha Gnanasekaran 👋  
+Hi, I'm **Manasha Gnanasekaran** 👋  
 
 🎓 B.Tech in Artificial Intelligence & Data Science  
-🧠 Passionate about Machine Learning & Intelligent Systems  
-📊 Interested in Data Analytics & Problem Solving  
-🎨 Creative thinker with UI/UX design interest  
-🚀 Focused on continuous growth & impactful projects  
+🧠 Passionate about Machine Learning & Data-Driven Solutions  
+📊 Curious about analytics, intelligent systems & innovation  
+🎨 Interested in UI/UX and creative frontend development  
+🚀 Focused on continuous learning and impactful projects  
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 Current Focus
 
-- Data Structures & Algorithms  
-- Machine Learning Models  
-- Frontend UI Improvements  
-- Real-world AI Applications  
+- Strengthening Data Structures & Algorithms  
+- Building AI & ML mini projects  
+- Improving problem-solving skills  
+- Exploring real-world data applications  
 
 ---
 
@@ -41,22 +41,23 @@ Hi! I'm Manasha Gnanasekaran 👋
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manasha1710&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasha1710&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manasha1710&show_icons=true&theme=react&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasha1710&layout=compact&theme=react&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Manasha1710&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Manasha1710&theme=react&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 📈 Contribution Activity Map
 
 <div align="center">
 
@@ -66,21 +67,11 @@ Hi! I'm Manasha Gnanasekaran 👋
 
 ---
 
-## 🐍 Contribution Usage Map (Snake Animation)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
-
 ## 👀 Profile Visitors
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Manasha1710&label=Profile%20Views&color=7F00FF&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Manasha1710&label=Profile%20Views&color=26D0CE&style=flat" />
 
 </div>
 
@@ -91,11 +82,11 @@ Hi! I'm Manasha Gnanasekaran 👋
 <div align="center">
 
 <a href="https://www.linkedin.com/in/manashagnanasekaran17/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-11998E?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-1A2980?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Manasha1710" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-26D0CE?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -104,12 +95,12 @@ Hi! I'm Manasha Gnanasekaran 👋
 
 ## 💎 Personal Motto
 
-> "Dream in Data. Build with Intelligence. Grow with Consistency." ✨
+> "Stay consistent. Build intelligently. Let your work define you."
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:11998E&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer"/>
 
 </div>
