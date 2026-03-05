@@ -1,29 +1,32 @@
-<!-- 🌸 GitHub Profile README for MANASHA GNANASEKARAN 🌸 -->
+<!-- Aesthetic Tech Girl Theme - MANASHA GNANASEKARAN -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8C8DC,100:E0BBE4&height=200&section=header&text=MANASHA%20GNANASEKARAN&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3E8FF,100:E9D5FF&height=230&section=header&text=MANASHA%20GNANASEKARAN&fontSize=42&fontColor=5B21B6&animation=fadeIn&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20%7C%20Tech%20Enthusiast&descAlignY=65"/>
 
 </div>
 
-<h3 align="center">💗 AI Student | Tech Girl in Progress | Future ML Engineer 💗</h3>
+<div align="center">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="320"/>
+</div>
 
 ---
 
-## 🌸 About Me
+## About
 
-Hi! I'm **Manasha Gnanasekaran** 👩🏻‍💻✨  
+Manasha Gnanasekaran  
+Artificial Intelligence & Data Science student building intelligent systems with creativity and clarity.
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
-💗 A passionate tech girl who loves coding & creativity  
-🧠 Exploring Machine Learning & Intelligent Systems  
-🎨 Designing elegant UI/UX with a feminine touch  
-📊 Turning data into meaningful insights  
-🌷 Growing, learning, and building every day  
+• Exploring Machine Learning and real-world AI  
+• Strengthening Data Structures & Problem Solving  
+• Designing clean UI/UX experiences  
+• Focused on growth, discipline, and consistency  
+
+Technology should feel elegant, purposeful, and meaningful.
 
 ---
 
-## 💻 Tech Girl Toolkit
+## Tech Stack
 
 <div align="center">
 
@@ -33,7 +36,7 @@ Hi! I'm **Manasha Gnanasekaran** 👩🏻‍💻✨
 
 ---
 
-## 📊 My Coding Journey
+## GitHub Overview
 
 <div align="center">
 
@@ -49,7 +52,7 @@ Hi! I'm **Manasha Gnanasekaran** 👩🏻‍💻✨
 
 ---
 
-## 🌷 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -59,40 +62,32 @@ Hi! I'm **Manasha Gnanasekaran** 👩🏻‍💻✨
 
 ---
 
-## 🌸 Aesthetic Touch
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250"/>
-
-</div>
-
----
-
-## 💌 Let's Connect
+## Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/manashagnanasekaran17/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-F8C8DC?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-E9D5FF?style=for-the-badge&logo=linkedin&logoColor=5B21B6"/>
 </a>
 
 <a href="https://github.com/Manasha1710" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-E0BBE4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-F3E8FF?style=for-the-badge&logo=github&logoColor=5B21B6"/>
 </a>
 
 </div>
 
 ---
 
-## 💎 Personal Motto
+## Personal Philosophy
 
-> 💗 "Code beautifully. Think intelligently. Grow confidently." 💗
+Code with clarity.  
+Design with intention.  
+Grow with quiet confidence.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0BBE4,100:F8C8DC&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,100:F3E8FF&height=120&section=footer"/>
 
 </div>
